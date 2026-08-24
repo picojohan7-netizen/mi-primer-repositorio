@@ -1,3 +1,5 @@
 Ejercicio 1
 
 Crea un programa que solicite dos números y muestre su suma.
+
+Descripción: realizar una modificación
