@@ -1,2 +1,11 @@
-# mi-primer-repositorio
-Primer repositorio creado como una practica de control de versiones y Utilizaciones de GitHub
+# Mi-primer-repositorio
+## Descripción
+Este repositorio fue creado para aprender los fundamentos de GitHub.
+## Autor
+Daniel y Johan
+## Tecnologías
+- Git
+- GitHub
+- Markdown
+## Objetivo
+Aprende a utilizar repositorios y control de versiones.
